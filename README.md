@@ -7,8 +7,8 @@ This project aims to detect stress levels using machine learning techniques. It 
 
 ### Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/srishti2207/Stress-Detection-Using-DL-techniques.git
+cd Stress-Detection-Using-DL-techniques
 ```
 
 ### Install Dependencies
@@ -72,4 +72,4 @@ The results of the model evaluations, including accuracy, precision, recall, and
 If you wish to contribute to this project, please fork the repository and submit a pull request.
 
 ## Contact Information
-For any inquiries or issues, please contact Sristhi Kachata at [srishtik@umich.edu].
+For any inquiries or issues, please contact at srishtik@umich.edu.
