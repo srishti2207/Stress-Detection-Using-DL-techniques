@@ -71,8 +71,5 @@ The results of the model evaluations, including accuracy, precision, recall, and
 ## Contributing
 If you wish to contribute to this project, please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact Information
-For any inquiries or issues, please contact Kshitij Dhannoda at [email address].
+For any inquiries or issues, please contact Sristhi Kachata at [srishtik@umich.edu].
